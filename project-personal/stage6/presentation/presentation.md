@@ -41,7 +41,7 @@ header-includes:
 :::
 ::: {.column width="30%"}
 
-![](./image/kulyabov.jpg)
+
 
 :::
 ::::::::::::::
